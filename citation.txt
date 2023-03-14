@@ -1,0 +1,9 @@
+@article{REPO-050,
+    author = {M\"uller, Thomas and Evans, Alex and Schied, Christoph and Keller, Alexander},
+    journal = "ACM Trans. Graph.",
+    number = "4",
+    pages = "102:1--102:15",
+    title = "{Instant Neural Graphics Primitives with a Multiresolution Hash Encoding}",
+    volume = "41",
+    year = "2022"
+}
